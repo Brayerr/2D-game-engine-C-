@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\2D game engine\2D game engine\bin\Debug\2D game engine.exe.config
+C:\Users\ASUS\source\repos\2D game engine\2D game engine\bin\Debug\2D game engine.exe
+C:\Users\ASUS\source\repos\2D game engine\2D game engine\bin\Debug\2D game engine.pdb
+C:\Users\ASUS\source\repos\2D game engine\2D game engine\obj\Debug\2D game engine.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\2D game engine\2D game engine\obj\Debug\2D game engine.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\2D game engine\2D game engine\obj\Debug\2D game engine.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\2D game engine\2D game engine\obj\Debug\2D game engine.exe
+C:\Users\ASUS\source\repos\2D game engine\2D game engine\obj\Debug\2D game engine.pdb
